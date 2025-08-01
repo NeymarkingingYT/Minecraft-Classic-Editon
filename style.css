@@ -1,0 +1,10 @@
+/* style.css */
+body {
+  margin: 0;
+  overflow: hidden;
+}
+canvas#game {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
